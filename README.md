@@ -12,7 +12,7 @@ This Terraform project automates the creation of an EC2 instance on AWS. It also
   - [Initializing Terraform](#initializing-terraform)
   - [Creating Terraform Workspace](#creating-terraform-workspace)
   - [Deploying Infrastructure](#deploying-infrastructure)
-- [Cleaning Up](#cleaning-up
+- [Cleaning Up](#cleaning-up)
 
 ## Overview
 
